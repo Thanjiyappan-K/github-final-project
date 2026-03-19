@@ -1,15 +1,9 @@
-curl -X GET -H "Accept: application/vnd.github.v3+json" \
-https://api.github.com/repos/Thanjiyappan-K/mcino-Introduction-to-Git-and-GitHub/pulls
+$ curl -X GET https://api.github.com/repos/Thanjiyappan-K/mcino-Introduction-to-Git-and-GitHub/pulls
 
 [
   {
-    "id": 987654321,
     "number": 1,
-    "state": "open",
     "title": "Fix typo in README",
-    "user": {
-      "login": "Thanjiyappan-K"
-    },
     "head": {
       "ref": "bug-fix-typo",
       "repo": {
