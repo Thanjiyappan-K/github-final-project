@@ -8,6 +8,10 @@ Examples of behavior that contributes to a positive environment include:
 - Being respectful and inclusive
 - Accepting constructive criticism
 - Focusing on what is best for the community
+- 
+
+## Enforcement Guidelines
+Project maintainers will follow these guidelines in determining consequences for any action deemed inappropriate.
 
 ## Enforcement Responsibilities
 Project maintainers are responsible for clarifying and enforcing our standards of acceptable behavior.
